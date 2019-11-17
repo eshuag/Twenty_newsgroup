@@ -1,2 +1,2 @@
 # Twenty_newsgroup
-NAtursl Language processing
+Natural Language processing
